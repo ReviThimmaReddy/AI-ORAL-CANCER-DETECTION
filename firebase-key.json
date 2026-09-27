@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oraldiagnosisai",
+  "private_key_id": "135ddd97d600cee82756e82cc74a477690ec16b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3RTb0V5kUl7mU\no5V6sp0CW5vx1svBqopjNIb8OUwX3lwa+iAJ9++/PnaPQevzORWOI1crG21/o2X8\nH2B69kDCM12NoVfF6r4VPwkDKZ3QVYjUiGB+2BW1sosVyRM09+JYTxVsqUZn3B06\ndxwrpj7bTG4ialQQgjADLUxlhGi4MzEekuQ9V/udiPHeFNRtcSMMooWsYQcTU/7s\nOV9i6rEHgpxyYVLpOsGSbKVQd36UlN0N+PJHXpDvmYXVXGWh3PKfoMDeX1et0B6S\n3GEEZpMxh9JC2EeboxlhCX1M1LTT/b8/7Ds/HN/I/q+qd6Xb5r9Fbujou4rmuzkc\n24/NxdP3AgMBAAECggEAGvY+TvUiKrLllPX59DqZubKTfyEsCbpWsKCWKT4esTY/\n06Ivm3fT2A1O8OVwWnBv+OC/HrLiyY/W3aAaGAzpWwimf0MYwB+4RjTnVQVG19L1\nldrYY2DT1M7HAnX58uVy8a30x28h0f7CeAr05IEJJ0cXvs1ov6L/gEAmSJsRsuNp\nVXHGlVl9lGmt+77DHLK369reBN/eBvBqKcWqUbj2jW6gL/xwKHj7W3uducpccMrH\nCDM7DfvEpjqNuKPIDmon80shmaxRQzBgDfXOeoWq1XRmIRbl/cYTgFWRqPLTo/cQ\n7jvsXXToR0D2UbxJLSSToGjRXcEl8B2nzrV/d2ILwQKBgQDgWYDWBsiNfSk3gXWk\nMkPtwcxNELGtQGlj9e+5eSOBq7QS+DfidwONd4oR1CnE30Bz6cKdZRfdrVrKITdm\nV340eSMw6nNMzxFziPHMIKl2UQN2TmVtFjjYdYgB/gTtMSCls3qm4cJ3pzUuaMBo\nS+N/TmyTfKfXugeC5nWgrK+LwQKBgQDRIB0xe+YH8bBXngoGEVyj02zhPvtpTwxM\nBLJW+jguuWJZIvLpPw9Ji+4v4O7WDGM30mmEUCp1cjE/BjCU+LenxLlpv/ZR2zx9\ntKzZn6tJex9ahXlsTLmYurplUorjezrARfBjgytIwbPnK73GSxqU8c5xqH7RgM14\nGROojrgttwKBgDsN9EbiRDpSPt44eqH9BTp5b/C9OzfSo6tHWpHk3D7O1rjDk9pN\n36aGV9a3lUMYTRv15V+O88hLUIGyWqXa1AK1/Fhs7mrCeuKBorxLwK+/RX0Hx9T+\nK3p2/ZUgq2VQMDrN0rRI6uqaHfqYYkVR7JFfMF9mSbwUYNPJHB9uNUtBAoGAcclC\neSlMCWiFJbdVBuYtfOpOJOULEMq1CyvHCbJOHYY7L/rnJuhr3f2oVR7TdV36ImZ3\niUnBQHQovX0VtAj8jOlqZVLQqMtcR52mKydIoMvATJWxcq7wkVyQjQ7ziUEEv5eO\na+b0Bzt2MsNHF/zHcuF7Dba7gizOH5mta5p0NlMCgYEAqpnrw/K25AWW588AcniM\nrC24xAYUJfpOQYZg/Y3Absdxnu6Qu9pTH6IeuSlISHkJRvUP7awVNZhto3I3Lnvh\nt3di8B/3ODWDHfOky7pTiOTZoBtidSx8H9eCP4S7Z9AmzRXh6TRneDcwnToEEwkV\nNSp0cpkEgheaJ4oeyHjf7Ik=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@oraldiagnosisai.iam.gserviceaccount.com",
+  "client_id": "105747967277387608428",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40oraldiagnosisai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
