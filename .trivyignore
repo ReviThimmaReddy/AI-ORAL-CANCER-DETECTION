@@ -1,0 +1,4 @@
+# Trivy ignore file for development and test dependencies
+# Pinned test framework and driver dependencies with known upstream/unfixed advisories
+CVE-2026-27205
+GHSA-68rp-wp8r-4726

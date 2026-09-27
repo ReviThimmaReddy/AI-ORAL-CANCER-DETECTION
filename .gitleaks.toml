@@ -1,0 +1,18 @@
+title = "gitleaks config"
+
+[[allowlist]]
+description = "Ignore local testing/dev service account key and build/report directories"
+paths = [
+    '''firebase-key\.json''',
+    '''venv/.*''',
+    '''k6/.*''',
+    '''node_modules/.*''',
+    '''Vulnerability Test Results/.*''',
+    '''reports/.*''',
+    '''artifacts/.*''',
+    '''selenium/.*''',
+    '''android/app/build/.*'''
+]
+regexes = [
+    '''change-this-secret-key-in-production'''
+]
